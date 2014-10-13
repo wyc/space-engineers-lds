@@ -1,0 +1,6 @@
+Running
+=======
+
+Have these two following files in this directory:
+- DedicatedServer.zip # probably at C:\Program Files (x86)\Steam\SteamApps\SpaceEngineers\Tools\DedicatedServer.zip
+- SpaceEngineers-Dedicated.cfg # found at C:\Users\<USER NAME>\AppData\Roaming\SpaceEngineersDedicated\SpaceEngineers-Dedicated.cfg" after saving a server config
